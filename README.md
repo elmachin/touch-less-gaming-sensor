@@ -1,6 +1,8 @@
 # Touchless Proximity Button for Gaming Machines
 
 **🏆 Winner - Pitch@ICE, ExCeL London 2022**
+![Pitch@ICE 2022](pitch-ice-2022.jpg)
+*Presenting at Pitch@ICE, ExCeL London 2022*
 
 **US Patent 12,417,670 B2** | Lead Inventor
 
