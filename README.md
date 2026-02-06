@@ -11,14 +11,17 @@
 ## Product Photos
 
 ### Casino Installation - Live Deployment
-![Casino Installation](Touch-less-installation.png)
+<img src="Touch-less-installation.png" width="600">
+
 *Touchless button in active use at casino in Mexico*
 
 ### Drop-In Replacement Design
-![Button Front Comparison](Touch-less-drop-in-replacement-front.png)
+<img src="Touch-less-drop-in-replacement-front.png" width="500">
+
 *Front view comparison - seamless retrofit*
 
-![Button Back Comparison](Touch-less-drop-in-replacement-back.png)
+<img src="Touch-less-drop-in-replacement-back.png" width="500">
+
 *Back view showing drop-in compatibility with existing gaming hardware*
 
 Scroll to bottom and click "Commit changes"
