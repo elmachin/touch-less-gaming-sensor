@@ -6,6 +6,27 @@
 
 ---
 
+## Product Photos
+
+### Casino Installation - Live Deployment
+![Casino Installation](Touch-less-installation.png)
+*Touchless button in active use at casino in Mexico*
+
+### Drop-In Replacement Design
+![Button Front Comparison](Touch-less-drop-in-replacement-front.png)
+*Front view comparison - seamless retrofit*
+
+![Button Back Comparison](Touch-less-drop-in-replacement-back.png)
+*Back view showing drop-in compatibility with existing gaming hardware*
+
+Scroll to bottom and click "Commit changes"
+
+
+Copy that code block above and add it to your README now. Tell me when it's done!
+
+
+---
+
 ## Overview
 
 Contactless button system designed for retrofit installation in slot machines and gaming equipment. 
