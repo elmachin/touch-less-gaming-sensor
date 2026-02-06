@@ -1,7 +1,7 @@
 # Touchless Proximity Button for Gaming Machines
 
 **🏆 Winner - Pitch@ICE, ExCeL London 2022**
-![Pitch@ICE 2022](pitch-ice-2022.jpg)
+<img src="pitch-ice-2022.jpg" width="500">
 *Presenting at Pitch@ICE, ExCeL London 2022*
 
 **US Patent 12,417,670 B2** | Lead Inventor
@@ -11,7 +11,7 @@
 ## Product Photos
 
 ### Casino Installation - Live Deployment
-<img src="Touch-less-installation.png" width="600">
+<img src="Touch-less-installation.png" width="500">
 
 *Touchless button in active use at casino in Mexico*
 
