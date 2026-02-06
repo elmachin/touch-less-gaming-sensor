@@ -1,6 +1,7 @@
 # Touchless Proximity Button for Gaming Machines
 
 **🏆 Winner - Pitch@ICE, ExCeL London 2022**
+
 <img src="pitch-ice-2022.jpg" width="500">
 *Presenting at Pitch@ICE, ExCeL London 2022*
 
