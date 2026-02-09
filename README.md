@@ -129,6 +129,8 @@ Status: Granted
 - **Schematic:** [View PDF](hardware/pcb/Schematic_Final.pdf)
 - **BOM:** [View PDF](hardware/pcb/Assembly_Bill_of_Materials.pdf)
 - **Gerber Files:** Available in `/hardware/pcb/gerbers/` for manufacturing
+  
+---
 
 ## Media & Press
 
