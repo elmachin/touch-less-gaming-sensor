@@ -2,34 +2,26 @@
 
 **🏆 Winner - Pitch@ICE, ExCeL London 2022**
 
-<img src="pitch-ice-2022.jpg" width="500">
+<img src="docs/images/pitch-ice-2022.jpg" width="500">
 *Presenting at Pitch@ICE, ExCeL London 2022*
-
-**US Patent 12,417,670 B2** | Lead Inventor
 
 ---
 
 ## Product Photos
 
 ### Casino Installation - Live Deployment
-<img src="Touch-less-installation.png" width="500">
+<img src="docs/images/Touch-less-installation.png" width="500">
 
 *Touchless button in active use at casino in Mexico*
 
 ### Drop-In Replacement Design
-<img src="Touch-less-drop-in-replacement-front.png" width="500">
+<img src="docs/images/Touch-less-drop-in-replacement-front.png" width="500">
 
 *Front view comparison - seamless retrofit*
 
-<img src="Touch-less-drop-in-replacement-back.png" width="500">
+<img src="docs/images/Touch-less-drop-in-replacement-back.png" width="500">
 
 *Back view showing drop-in compatibility with existing gaming hardware*
-
-Scroll to bottom and click "Commit changes"
-
-
-Copy that code block above and add it to your README now. Tell me when it's done!
-
 
 ---
 
@@ -117,8 +109,25 @@ Status: Granted
 - Environmental durability (casino floor rated)
 - Retrofit-compatible design
 - Commercial-grade reliability
-
+  
 ---
+
+## Hardware Design Files
+
+### PCB Design
+3D renderings of the PCB:
+
+<img src="hardware/pcb/Circuit Board Top 3D.png" width="300">
+
+*PCB Top View - 3D Render*
+
+<img src="hardware/pcb/Circuit Board Bottom 3D.png" width="300">
+
+*PCB Bottom View - 3D Render*
+
+### Design Documentation
+- **Schematic:** [View PDF](hardware/pcb/Schematic_Final.pdf)
+- **Gerber Files:** Available in `/hardware/pcb/gerbers/` for manufacturing
 
 ## Media & Press
 
