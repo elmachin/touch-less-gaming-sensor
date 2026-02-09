@@ -131,7 +131,6 @@ Status: Granted
 - **Gerber Files:** Available in `/hardware/pcb/gerbers/` for manufacturing
   
 ---
-
 ## Media & Press
 
 - Pitch@ICE ExCeL London 2022 - Innovation Award Winner
