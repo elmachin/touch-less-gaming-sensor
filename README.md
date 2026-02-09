@@ -12,24 +12,18 @@
 ## Product Photos
 
 ### Casino Installation - Live Deployment
-<img src="Touch-less-installation.png" width="500">
+<img src="docs/images/Touch-less-installation.png" width="500">
 
 *Touchless button in active use at casino in Mexico*
 
 ### Drop-In Replacement Design
-<img src="Touch-less-drop-in-replacement-front.png" width="500">
+<img src="docs/images/Touch-less-drop-in-replacement-front.png" width="500">
 
 *Front view comparison - seamless retrofit*
 
-<img src="Touch-less-drop-in-replacement-back.png" width="500">
+<img src="docs/images/Touch-less-drop-in-replacement-back.png" width="500">
 
 *Back view showing drop-in compatibility with existing gaming hardware*
-
-Scroll to bottom and click "Commit changes"
-
-
-Copy that code block above and add it to your README now. Tell me when it's done!
-
 
 ---
 
