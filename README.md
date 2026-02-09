@@ -119,11 +119,11 @@ Status: Granted
 ### PCB Design
 3D renderings of the PCB:
 
-<img src="hardware/pcb/Circuit Board Top 3D.png" width="600">
+<img src="hardware/pcb/Circuit Board Top 3D.png" width="300">
 
 *PCB Top View - 3D Render*
 
-<img src="hardware/pcb/Circuit Board Bottom 3D.png" width="600">
+<img src="hardware/pcb/Circuit Board Bottom 3D.png" width="300">
 
 *PCB Bottom View - 3D Render*
 
