@@ -111,8 +111,25 @@ Status: Granted
 - Environmental durability (casino floor rated)
 - Retrofit-compatible design
 - Commercial-grade reliability
-
+  
 ---
+
+## Hardware Design Files
+
+### PCB Design
+3D renderings of the PCB:
+
+<img src="hardware/pcb/3d-render-top.png" width="600">
+
+*PCB Top View - 3D Render*
+
+<img src="hardware/pcb/3d-render-bottom.png" width="600">
+
+*PCB Bottom View - 3D Render*
+
+### Design Documentation
+- **Schematic:** [View PDF](hardware/pcb/Schematic_Final.pdf)
+- **Gerber Files:** Available in `/hardware/pcb/gerbers/` for manufacturing
 
 ## Media & Press
 
