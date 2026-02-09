@@ -5,8 +5,6 @@
 <img src="docs/images/pitch-ice-2022.jpg" width="500">
 *Presenting at Pitch@ICE, ExCeL London 2022*
 
-**US Patent 12,417,670 B2** | Lead Inventor
-
 ---
 
 ## Product Photos
